@@ -1,0 +1,56 @@
+<?php
+
+/**
+ * Message translations for \eugene-kei\user.
+ *
+ * NOTE: this file must be saved in UTF-8 encoding.
+ */
+return [
+        'ID' => 'ID',
+    'Name' => 'Назва',
+    'Description' => 'Опис',
+    'Status' => 'Статус',
+    'Actions' => 'Дії',
+    'Create' => 'Створити',
+    'Update' => 'Оновити',
+    'Delete' => 'Видалити',
+    'View' => 'Переглянути',
+    'List' => 'До списку',
+    'Monday' => 'Понеділок',
+    'Tuesday' => 'Вівторок',
+    'Wednesday' => 'Середа',
+    'Thursday' => 'Четвер',
+    'Friday' => 'Середа',
+    'Saturday' => 'Субота',
+    'Sunday' => 'Неділя',
+    'Start' => 'Початок',
+    'End' => 'Закінчення',
+    'Group' => 'Група',
+    'Classes' => 'Заняття',
+    'Date' => 'Дата',
+     'Weekday' => 'День тижня',
+    'Publish' => 'Опублікувати на сайті',
+    'Timetable' => 'Розклад',
+    'Timetable view' => 'Перегляд розкладу',
+    'Set the date' => 'Вкажіть дату',
+    'Set the first date' => 'Спочатку вкажіть дату',
+    'No records found in the timetable of customers at that date.' => 'Не знайдено записів у розкладі занять клієнтів на зазначену дату.',
+    'Moved training schedule clients: {sum}' => 'Перенесено занять у розкладі клієнтів: {sum}',
+    'The data are updated' => 'Дані оновлено',
+    'Error cloning.' => 'Помилка клонування.',
+     'Cloned record "{group} | {weekDay} | {start} - {end}".' => 'Клонована запис "{group} | {weekDay} | {start} - {end}".',
+    'Created record "{group} | {weekDay} | {start} - {end}".' => 'Додана запис "{group} | {weekDay} | {start} - {end}".',
+    'Error! Unable to find a cloned record in the database.' => 'Помилка! Не вдалося знайти клонируемую запис в базі даних.',
+    'Error! The schedule is not published on the website.' => 'Помилка! Розклад НЕ опубліковано на сайті.',
+    'Schedule published on the site.' => 'Розклад опубліковано на сайті.',
+     'Cancel lessons' => 'Відмінити заняття',
+    'Create item' => 'Додавання елемента',
+    'Update item' => 'Зміна елемента',
+    'Clone row' => 'Клонувати рядок',
+    'List items' => 'Список',
+    'Delete selected' => 'Видалити виділене',
+    'Are you sure to delete this item?' => 'Ви дійсно хочете видалити цей елемент?',
+    'Are you sure you want to delete selected items?' => 'Ви дійсно хочете вилучити обрані елементи?',
+    'You need to select at least one item.' => 'Ви нічого не вибрали.',
+
+];

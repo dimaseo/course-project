@@ -1,0 +1,100 @@
+.category-container{	
+	display: inline-block;
+	width: 65%;
+	padding: 18px 50px;
+	margin: 0 7%;
+	/*border-left: 1px solid #342;*/
+
+
+
+}
+/*.fotorama__stage{
+
+}
+.fotorama__img{
+	width: 100%;
+	height: 400px;
+}
+.fotorama__stage__frame{
+	left: 200px;
+}
+.fotorama{
+	margin-left: 15%;
+	width: 100%;
+	height: 400px;
+}*/
+body{
+	font-family: ;
+
+}
+.slider{
+	margin: 0 auto;
+	text-align: center;
+	/*width: 1024px;
+	height: 600px;*/
+}
+.slider img{
+	margin: 0 auto;
+	width: 760px;
+	height: 300px;
+}
+.category-container:hover{
+	-webkit-transition-delay: 0.1s;
+	-o-transition-delay: 0.1s;
+	transition-delay: 0.1s;
+	background-color: #FAFAD2;
+}
+.category-title{
+	font-size: 26px;
+
+
+}
+.category-title:hover{
+	padding-left: 4px;
+	-webkit-transition-delay: 0.1s;
+	-o-transition-delay: 0.1s;
+	transition-delay: 0.1s;
+}
+.category-content{
+	font-size: 20px;
+}
+.name_course{
+	display: inline-block;
+	padding: 20px 0;
+
+}
+.description_course{
+	max-width: 978px;
+	padding: 30px 10px;
+}
+.title-course{
+	/*border-bottom: 1px solid #ddd;*/
+	text-align: center;
+	background-color: #009933;
+	height: 104px;
+
+}
+/*p{
+	display: inline-block;
+}*/
+.price_course{
+	display: inline-block;
+	float: right;
+	width: 130px;
+	padding-top: 14px;
+	text-align: right;
+	border-left: 1px solid #ddd;
+	font-size: 24px;
+	/*border-radius: 4px;*/
+	height: 104px;
+	background-color: #319033;
+}
+.price_course p{
+
+	/*vertical-align: middle;*/
+	text-align: center;
+}
+.panel-def{
+	margin: 20px 75px;
+	border-color: #A9A9A9;
+}
